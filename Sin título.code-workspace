@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/fernyrivera/Desktop/Algoritmos"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__locale": "c",
+			"__string": "c",
+			"string": "c",
+			"string_view": "c"
+		},
+		"terminal.integrated.env.osx": {
+			"PATH": "/Users/fernyrivera/.platformio/penv/bin:/Users/fernyrivera/.platformio/penv:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/fernyrivera/Library/Android/sdk/emulator:/Users/fernyrivera/Library/Android/sdk/tools:/Users/fernyrivera/Library/Android/sdk/tools/bin:/Users/fernyrivera/Library/Android/sdk/platform-tools",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
